@@ -1,0 +1,3 @@
+pr.c:6:13:pr__make_msg	40	static
+pr.c:43:13:pr__parse_answer	40	static
+pr.c:74:13:pr__get_crc	24	static
